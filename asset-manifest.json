@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-website-yt-1/static/css/main.8f7cfe8c.chunk.css",
+    "main.js": "/react-website-yt-1/static/js/main.b62ebed0.chunk.js",
+    "main.js.map": "/react-website-yt-1/static/js/main.b62ebed0.chunk.js.map",
+    "runtime-main.js": "/react-website-yt-1/static/js/runtime-main.d3533c44.js",
+    "runtime-main.js.map": "/react-website-yt-1/static/js/runtime-main.d3533c44.js.map",
+    "static/js/2.2f8ddff2.chunk.js": "/react-website-yt-1/static/js/2.2f8ddff2.chunk.js",
+    "static/js/2.2f8ddff2.chunk.js.map": "/react-website-yt-1/static/js/2.2f8ddff2.chunk.js.map",
+    "index.html": "/react-website-yt-1/index.html",
+    "static/css/main.8f7cfe8c.chunk.css.map": "/react-website-yt-1/static/css/main.8f7cfe8c.chunk.css.map",
+    "static/js/2.2f8ddff2.chunk.js.LICENSE.txt": "/react-website-yt-1/static/js/2.2f8ddff2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-website-yt-1/static/media/Flower.18271dca.jpg",
+    "static/media/HeroSection.css": "/react-website-yt-1/static/media/Plitvice.f646578f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3533c44.js",
+    "static/js/2.2f8ddff2.chunk.js",
+    "static/css/main.8f7cfe8c.chunk.css",
+    "static/js/main.b62ebed0.chunk.js"
+  ]
+}
